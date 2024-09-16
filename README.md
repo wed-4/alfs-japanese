@@ -14,3 +14,7 @@ ALFSの公式実装はjhalfsと呼ばれる。元々はJeremy Huntworkによっ�
 
     git clone https://git.linuxfromscratch.org/jhalfs.git jhalfs
 このコマンドによってjhalfsがgitからダウンロードされる。
+
+## スクリプトの改良
+BLFSブックのパッケージのビルドを自動化するALFSの拡張がjhalfsに含まれるようになった。主にブックのレイアウトが標準と異なる場合に、いくつかのスクリプトを編集する必要があります。
+
